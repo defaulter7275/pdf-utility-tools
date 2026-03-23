@@ -1,1 +1,8 @@
 "# pdf-utility-tools" 
+"For installation of this pls install the following dependencies:"
+"1. Python 3.10 or higher"  
+"2. pip (Python package installer)"
+"3. requirements.txt (can be installed using pip)"    
+"To install the libraries , run the following command in your terminal or command prompt:"
+"pip install -r requirements.txt"
+"After installing the dependencies, you can run the main script to use the PDF utility tools."  
