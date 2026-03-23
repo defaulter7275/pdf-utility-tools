@@ -20,7 +20,7 @@ A collection of lightweight and efficient Python scripts designed to automate co
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/defaulter7275/pdf-utility-tools.git](https://github.com/defaulter7275/pdf-utility-tools.git)
+git clone https://github.com/defaulter7275/pdf-utility-tools.git
 cd pdf-utility-tools
 ```
 ### 2. Install dependencies
